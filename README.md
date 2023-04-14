@@ -52,14 +52,22 @@ Create a couple tickets with the agents we created.
 <img width="1045" alt="Screen Shot 2023-04-13 at 10 09 02 PM" src="https://user-images.githubusercontent.com/88648101/231923700-02d1dd72-a784-4bdc-83ee-5955f6c8b7ba.png">
 </p>
 <p>
-Log In as Jane Doe. In this lab She will be playing the role of an escalation engineer.Lets take a look at the ticket with mobile banking down. This sounds like a business impacting issue. Change priority to Emergency. Since this a high impact ticket and want to make sure it is resolved, assign the ticket to yourself in my case Jane Doe. Change the SLA to SEV A; the highest severity. Change the departments from support to System Administrators. Post a reply to the tickets and return to opened tickets. You can see that the Priority has changed and Jane Doe is assigned the ticket. You can also see that under  Ticket Thread, every changes you made was automatically communicated. This can help jumpstart other agents hoping on the ticket halfway if needed.
+Log In as Jane Doe. In this lab She will be playing the role of an escalation engineer.Lets take a look at the ticket with mobile banking down. This sounds like a business impacting issue. Change priority to Emergency. Since this a high impact ticket and want to make sure it is resolved, assign the ticket to yourself in my case Jane Doe. Change the SLA to SEV A; the highest severity. Change the departments from support to System Administrators. Post a reply to the tickets and return to opened tickets. You can see that the Priority has changed and Jane Doe is assigned the ticket. You can also see that under  Ticket Thread, every changes you made was automatically communicated. This can help jumpstart other agents joining the ticket halfway if needed.
 </p>
 <br />
 
+<p>Working the Issue</p>
+<p>Since Jane assigned the ticket directly to herself, she will coordinate with the Sys Admin Team and make sure the issue is resolved. Any changes or findings will be communicated and seen in the Ticket Thread.</p>
+<br />
+
+<p>Resolution</p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1169" alt="Screen Shot 2023-04-14 at 10 32 38 AM" src="https://user-images.githubusercontent.com/88648101/232074377-21f63ceb-3402-4099-ac0f-900b1d313e41.png">
+<img width="1085" alt="Screen Shot 2023-04-14 at 10 34 02 AM" src="https://user-images.githubusercontent.com/88648101/232074416-46d49cb7-3017-42a4-9fe3-c371a8572e11.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the Issue Have been resolved, Jane will provide a brief overview of how it was resolved and then change Ticket Status from open to "Resolved". This will close the ticket and remove it from the list of open tickets. You can also view closed tickets by going to closed. This can be very helpful if faced with an issue that has been resolved before. 
 </p>
 <br />
+
+<p>This brings us to the end of the ticket-cycle. Please take time to practice by assigning and resolving the remaining tickets we created in the begining. This Time try asigning the ticket to someone else other than jane. Try to practice any event you could imagine happening eg: downgrading a ticket, reasigning to a different department or even reopening a closed ticket. Thank you and have great day. <p>
