@@ -42,7 +42,7 @@ Create a couple tickets with the agents we created.
 </p>
 <br />
 
-<p>Assigning Tickets</p>
+<p>Assigning Tickets and Commnunication</p>
 <p>url to log in as a help desk professional/agent: http://localhost/osTicket/scp/login.php</p>
 <p>
 <img width="943" alt="Screen Shot 2023-04-13 at 2 16 20 PM" src="https://user-images.githubusercontent.com/88648101/231920816-9d508288-9eeb-47ba-b6b5-d4025e8bb210.png">
@@ -52,11 +52,10 @@ Create a couple tickets with the agents we created.
 <img width="1045" alt="Screen Shot 2023-04-13 at 10 09 02 PM" src="https://user-images.githubusercontent.com/88648101/231923700-02d1dd72-a784-4bdc-83ee-5955f6c8b7ba.png">
 </p>
 <p>
-Log In as Jane Doe. In this lab She will be playing the role of an escalation engineer.Lets take a look at the ticket with mobile banking down. This sounds like a business impacting issue. Change priority to Emergency. Since this a high impact ticket and want to make sure it is resolved, assign the ticket to yourself in my case Jane Doe. Change the SLA to SEV A; the highest severity. Change the departments from support to System Administrators. Post a reply to the tickets and return to opened tickets. You can see that the Priority has changed and Jane Doe is assigned the ticket.
+Log In as Jane Doe. In this lab She will be playing the role of an escalation engineer.Lets take a look at the ticket with mobile banking down. This sounds like a business impacting issue. Change priority to Emergency. Since this a high impact ticket and want to make sure it is resolved, assign the ticket to yourself in my case Jane Doe. Change the SLA to SEV A; the highest severity. Change the departments from support to System Administrators. Post a reply to the tickets and return to opened tickets. You can see that the Priority has changed and Jane Doe is assigned the ticket. You can also see that under  Ticket Thread, every changes you made was automatically communicated. This can help jumpstart other agents hoping on the ticket halfway if needed.
 </p>
 <br />
 
-<p>Communication</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
