@@ -54,6 +54,7 @@ Create a couple tickets with the agents we created.
 <p>
 Log In as Jane Doe. In this lab She will be playing the role of an escalation engineer.Lets take a look at the ticket with mobile banking down. This sounds like a business impacting issue. Change priority to Emergency. Since this a high impact ticket and want to make sure it is resolved, assign the ticket to yourself in my case Jane Doe. Change the SLA to SEV A; the highest severity. Change the departments from support to System Administrators. Post a reply to the tickets and return to opened tickets. You can see that the Priority has changed and Jane Doe is assigned the ticket. You can also see that under  Ticket Thread, every changes you made was automatically communicated. This can help jumpstart other agents joining the ticket halfway if needed.
 </p>
+<p>P.S. The notes symbol with an exclamation mark is a sign telling me the tickets was overdue. Since we changed the severity to SEV A, we only had an hour to complete it. While making this tutorial i had to take a break for some other work and this caused me to go over the 1 hour mark. Therefore SLA was not met. You want to avoid ⚠️ this in the real life work environment. Meeting SLA's make sure the company runs and functions properly. Thank you. </p>
 <br />
 
 <p>Working the Issue</p>
